@@ -1,0 +1,6 @@
+D:\suchi\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\suchi\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\suchi\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+D:\suchi\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\suchi\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\suchi\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
